@@ -1,0 +1,6 @@
+C:\Code\Test_for_macroscop\ClientServer\Server\bin\Debug\Server.exe.config
+C:\Code\Test_for_macroscop\ClientServer\Server\bin\Debug\Server.exe
+C:\Code\Test_for_macroscop\ClientServer\Server\bin\Debug\Server.pdb
+C:\Code\Test_for_macroscop\ClientServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Code\Test_for_macroscop\ClientServer\Server\obj\Debug\Server.exe
+C:\Code\Test_for_macroscop\ClientServer\Server\obj\Debug\Server.pdb

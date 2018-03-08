@@ -1,0 +1,7 @@
+C:\Code\Test_for_macroscop\ClientServer\Client\bin\Debug\Client.exe.config
+C:\Code\Test_for_macroscop\ClientServer\Client\bin\Debug\Client.exe
+C:\Code\Test_for_macroscop\ClientServer\Client\bin\Debug\Client.pdb
+C:\Code\Test_for_macroscop\ClientServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Code\Test_for_macroscop\ClientServer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Code\Test_for_macroscop\ClientServer\Client\obj\Debug\Client.exe
+C:\Code\Test_for_macroscop\ClientServer\Client\obj\Debug\Client.pdb
